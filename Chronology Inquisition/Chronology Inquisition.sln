@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronology Inquisition", "Assembly-CSharp-firstpass.csproj", "{D53DD674-087D-9CE4-5C11-242768F6B9A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronology Inquisition", "Assembly-CSharp.csproj", "{4723D3A3-2C16-BDB6-C38F-EA8ED1C169E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53DD674-087D-9CE4-5C11-242768F6B9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53DD674-087D-9CE4-5C11-242768F6B9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53DD674-087D-9CE4-5C11-242768F6B9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53DD674-087D-9CE4-5C11-242768F6B9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4723D3A3-2C16-BDB6-C38F-EA8ED1C169E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4723D3A3-2C16-BDB6-C38F-EA8ED1C169E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4723D3A3-2C16-BDB6-C38F-EA8ED1C169E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4723D3A3-2C16-BDB6-C38F-EA8ED1C169E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

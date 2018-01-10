@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f42d4bf5c1e40054a9d456b0141746e1
+timeCreated: 1496883401
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Edo
+  fontNames:
+  - Edo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
