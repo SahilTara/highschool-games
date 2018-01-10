@@ -1,4 +1,4 @@
-#About
+# About
 Both games made in the unity engine.
 
 ## Zombie Zarcade
@@ -12,7 +12,7 @@ Mouse to aim and shoot<br/>
 R - Nuke<br/>
 F - Dash<br/>
 <br/>
-##Chronology Inquisition<br/>
+## Chronology Inquisition<br/>
 This is a game my friend and I made in 12th grade. The executable has been lost but the code is available.
 
 
